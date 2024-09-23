@@ -22,11 +22,13 @@ The database consists of a JSON array, where each entry contains the following f
     "Bank Code": "002",
     "Call Center": "1500017"
 }
-
+```
+```json
 fetch('path/to/your/bank-data.json')
     .then(response => response.json())
     .then(data => {
         console.log(data); // Access bank data here
     });
+```
 
 Feel free to customize any sections to better fit your project's needs!
