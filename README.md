@@ -24,7 +24,7 @@ The database consists of a JSON array, where each entry contains the following f
 }
 ```
 ```js
-fetch('path/to/your/bank-data.json')
+fetch('path/to/your/kodebank.json')
     .then(response => response.json())
     .then(data => {
         console.log(data); // Access bank data here
