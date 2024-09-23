@@ -23,7 +23,7 @@ The database consists of a JSON array, where each entry contains the following f
     "Call Center": "1500017"
 }
 ```
-```json
+```js
 fetch('path/to/your/bank-data.json')
     .then(response => response.json())
     .then(data => {
