@@ -1,0 +1,492 @@
+[
+    {
+        "Nama Bank": "Bank BRI (Bank Rakyat Indonesia)",
+        "Kode Bank": "002",
+        "Call Center": "1500017"
+    },
+    {
+        "Nama Bank": "Bank BCA (Bank Central Asia)",
+        "Kode Bank": "014",
+        "Call Center": "1500888"
+    },
+    {
+        "Nama Bank": "Bank Mandiri",
+        "Kode Bank": "008",
+        "Call Center": "14000"
+    },
+    {
+        "Nama Bank": "Bank BNI (Bank Negara Indonesia)",
+        "Kode Bank": "009",
+        "Call Center": "1500046"
+    },
+    {
+        "Nama Bank": "Bank Tabungan Negara (Bank BTN)",
+        "Kode Bank": "200",
+        "Call Center": "1500286"
+    },
+    {
+        "Nama Bank": "Bank Mega",
+        "Kode Bank": "426",
+        "Call Center": "08041500010"
+    },
+    {
+        "Nama Bank": "Allo Bank (Eks Bank Harda)",
+        "Kode Bank": "567",
+        "Call Center": "08041104110"
+    },
+    {
+        "Nama Bank": "SeaBank (Eks Bank Kesejahteraan Ekonomi)",
+        "Kode Bank": "535",
+        "Call Center": "1500130"
+    },
+    {
+        "Nama Bank": "Bank Jago (Eks Bank Artos Indonesia)",
+        "Kode Bank": "542",
+        "Call Center": "1500746"
+    },
+    {
+        "Nama Bank": "Bank UOB Indonesia",
+        "Kode Bank": "023",
+        "Call Center": "14008"
+    },
+    {
+        "Nama Bank": "TMRW by UOB Indonesia",
+        "Kode Bank": "023",
+        "Call Center": "14008"
+    },
+    {
+        "Nama Bank": "Bank CIMB Niaga",
+        "Kode Bank": "022",
+        "Call Center": "14041"
+    },
+    {
+        "Nama Bank": "Bank BTPN (Bank Tabungan Pensiunan Nasional)",
+        "Kode Bank": "213",
+        "Call Center": "1500300"
+    },
+    {
+        "Nama Bank": "Jenius",
+        "Kode Bank": "213",
+        "Call Center": "1500365"
+    },
+    {
+        "Nama Bank": "Permata Bank",
+        "Kode Bank": "013",
+        "Call Center": "1500090"
+    },
+    {
+        "Nama Bank": "Bank BII Maybank",
+        "Kode Bank": "016",
+        "Call Center": "1500611"
+    },
+    {
+        "Nama Bank": "Bank Sinarmas",
+        "Kode Bank": "153",
+        "Call Center": "1500153"
+    },
+    {
+        "Nama Bank": "Bank Commonwealth",
+        "Kode Bank": "950",
+        "Call Center": "1500030"
+    },
+    {
+        "Nama Bank": "Bank OCBC NISP",
+        "Kode Bank": "028",
+        "Call Center": "1500999"
+    },
+    {
+        "Nama Bank": "KB Bank Bukopin",
+        "Kode Bank": "441",
+        "Call Center": "14005"
+    },
+    {
+        "Nama Bank": "Bank Kalbar",
+        "Kode Bank": "123",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank Kaltimtara",
+        "Kode Bank": "124",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank Maluku Malut",
+        "Kode Bank": "131",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank Maspion",
+        "Kode Bank": "157",
+        "Call Center": "1500889"
+    },
+    {
+        "Nama Bank": "Bank Mestika",
+        "Kode Bank": "151",
+        "Call Center": "14083"
+    },
+    {
+        "Nama Bank": "Bank MNC",
+        "Kode Bank": "485",
+        "Call Center": "1500188"
+    },
+    {
+        "Nama Bank": "Bank Multiarta Sentosa (Bank Mas)",
+        "Kode Bank": "548",
+        "Call Center": "1500011"
+    },
+    {
+        "Nama Bank": "Bank National Nobu",
+        "Kode Bank": "503",
+        "Call Center": "1500278"
+    },
+    {
+        "Nama Bank": "Bank of China Jakarta Branch",
+        "Kode Bank": "069",
+        "Call Center": "0215205502"
+    },
+    {
+        "Nama Bank": "Bank Index",
+        "Kode Bank": "555",
+        "Call Center": "1500670"
+    },
+    {
+        "Nama Bank": "Bank SulutGo (Sulawesi Utara dan Gorontalo)",
+        "Kode Bank": "127",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank Papua",
+        "Kode Bank": "132",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank Kalteng",
+        "Kode Bank": "125",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank Lippo",
+        "Kode Bank": "026",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Citibank",
+        "Kode Bank": "031",
+        "Call Center": "1500335"
+    },
+    {
+        "Nama Bank": "Bank DBS Indonesia",
+        "Kode Bank": "046",
+        "Call Center": "08041500327"
+    },
+    {
+        "Nama Bank": "Bank Neo Commerce (Akulaku)",
+        "Kode Bank": "490",
+        "Call Center": "1500190"
+    },
+    {
+        "Nama Bank": "Indosat Dompetku",
+        "Kode Bank": "789",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Telkomsel Tcash/LinkAja",
+        "Kode Bank": "911",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank Panin",
+        "Kode Bank": "019",
+        "Call Center": "1500678"
+    },
+    {
+        "Nama Bank": "Bank HSBC Indonesia",
+        "Kode Bank": "087",
+        "Call Center": ""
+    },
+    {
+        "Nama Bank": "Lihat disini",
+        "Kode Bank": "",
+        "Call Center": ""
+    },
+    {
+        "Nama Bank": "Bank Mayapada",
+        "Kode Bank": "097",
+        "Call Center": "1500029"
+    },
+    {
+        "Nama Bank": "Bank Syariah Indonesia (BSI)",
+        "Kode Bank": "451",
+        "Call Center": "14040"
+    },
+    {
+        "Nama Bank": "Bank Mega Syariah",
+        "Kode Bank": "506",
+        "Call Center": "08041500010"
+    },
+    {
+        "Nama Bank": "Bank Aladin Syariah (Eks Bank Maybank Indocorp)",
+        "Kode Bank": "947",
+        "Call Center": "02185500947"
+    },
+    {
+        "Nama Bank": "Bank BCA Syariah",
+        "Kode Bank": "536",
+        "Call Center": "1500888"
+    },
+    {
+        "Nama Bank": "Bank CIMB Niaga Syariah",
+        "Kode Bank": "022",
+        "Call Center": "14041"
+    },
+    {
+        "Nama Bank": "Bank Muamalat",
+        "Kode Bank": "147",
+        "Call Center": "1500016"
+    },
+    {
+        "Nama Bank": "Bank BTPN Syariah",
+        "Kode Bank": "547",
+        "Call Center": "1500300"
+    },
+    {
+        "Nama Bank": "Bank KB Bukopin Syariah",
+        "Kode Bank": "521",
+        "Call Center": "1500666"
+    },
+    {
+        "Nama Bank": "BTN Syariah",
+        "Kode Bank": "200",
+        "Call Center": "1500286"
+    },
+    {
+        "Nama Bank": "Bank BJB Syariah",
+        "Kode Bank": "425",
+        "Call Center": "0221500727"
+    },
+    {
+        "Nama Bank": "Bank Panin Dubai Syariah",
+        "Kode Bank": "517",
+        "Call Center": "0216313700"
+    },
+    {
+        "Nama Bank": "Bank Aceh Syariah",
+        "Kode Bank": "116",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank NTB Syariah",
+        "Kode Bank": "128",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank DKI Jakarta",
+        "Kode Bank": "111",
+        "Call Center": "1500351"
+    },
+    {
+        "Nama Bank": "Bank BPD Banten",
+        "Kode Bank": "137",
+        "Call Center": "1500410"
+    },
+    {
+        "Nama Bank": "Bank Jabar dan Banten (Bank BJB)",
+        "Kode Bank": "110",
+        "Call Center": "14049"
+    },
+    {
+        "Nama Bank": "BPD DIY (Yogyakarta)",
+        "Kode Bank": "112",
+        "Call Center": "1500061"
+    },
+    {
+        "Nama Bank": "Bank Jateng",
+        "Kode Bank": "113",
+        "Call Center": "14066"
+    },
+    {
+        "Nama Bank": "Bank Jatim",
+        "Kode Bank": "114",
+        "Call Center": "14044"
+    },
+    {
+        "Nama Bank": "Bank Aceh",
+        "Kode Bank": "116",
+        "Call Center": "1500845"
+    },
+    {
+        "Nama Bank": "Bank QNB Indonesia",
+        "Kode Bank": "167",
+        "Call Center": "02130055300"
+    },
+    {
+        "Nama Bank": "Bank SBI Indonesia",
+        "Kode Bank": "498",
+        "Call Center": "08001724636"
+    },
+    {
+        "Nama Bank": "Bank Keb Hana",
+        "Kode Bank": "484",
+        "Call Center": "1500021"
+    },
+    {
+        "Nama Bank": "bLu/Bank Digital BCA",
+        "Kode Bank": "501",
+        "Call Center": "1500668"
+    },
+    {
+        "Nama Bank": "Bank Ina Perdana",
+        "Kode Bank": "513",
+        "Call Center": "1500738"
+    },
+    {
+        "Nama Bank": "Bank CCB Indonesia",
+        "Kode Bank": "036",
+        "Call Center": "0215663809"
+    },
+    {
+        "Nama Bank": "Bank Capital Indonesia",
+        "Kode Bank": "054",
+        "Call Center": "1500289"
+    },
+    {
+        "Nama Bank": "Line Bank",
+        "Kode Bank": "484",
+        "Call Center": "1500021"
+    },
+    {
+        "Nama Bank": "Bank Artha Graha International",
+        "Kode Bank": "037",
+        "Call Center": "08001918880"
+    },
+    {
+        "Nama Bank": "Bank Index Selindo",
+        "Kode Bank": "555",
+        "Call Center": "1500670"
+    },
+    {
+        "Nama Bank": "Bank Jasa Jakarta",
+        "Kode Bank": "472",
+        "Call Center": "1500388"
+    },
+    {
+        "Nama Bank": "BPR KS",
+        "Kode Bank": "889",
+        "Call Center": "0224556677"
+    },
+    {
+        "Nama Bank": "Batara ePos",
+        "Kode Bank": "200",
+        "Call Center": "1500286"
+    },
+    {
+        "Nama Bank": "Bank CTBC (China Trust) Indonesia",
+        "Kode Bank": "949",
+        "Call Center": "08071221111"
+    },
+    {
+        "Nama Bank": "China Construction Bank Indonesia",
+        "Kode Bank": "036",
+        "Call Center": "5663809"
+    },
+    {
+        "Nama Bank": "Bank Credit Agricole Indosuez",
+        "Kode Bank": "039",
+        "Call Center": "02129522663"
+    },
+    {
+        "Nama Bank": "Bank Ekspor Indonesia",
+        "Kode Bank": "003",
+        "Call Center": "–"
+    },
+    {
+        "Nama Bank": "Bank Arta Niaga Kencana",
+        "Kode Bank": "020",
+        "Call Center": "08001918880"
+    },
+    {
+        "Nama Bank": "Amar Bank",
+        "Kode Bank": "531",
+        "Call Center": "02140005859"
+    },
+    {
+        "Nama Bank": "Bank Sumut",
+        "Kode Bank": "117",
+        "Call Center": "14002"
+    },
+    {
+        "Nama Bank": "Bank Nagari",
+        "Kode Bank": "118",
+        "Call Center": "150234"
+    },
+    {
+        "Nama Bank": "Bank BPD Bali",
+        "Kode Bank": "129",
+        "Call Center": "1500844"
+    },
+    {
+        "Nama Bank": "Bank Jtrust Indonesia",
+        "Kode Bank": "095",
+        "Call Center": "1500615"
+    },
+    {
+        "Nama Bank": "Bank Bumi Arta",
+        "Kode Bank": "076",
+        "Call Center": "0212300893"
+    },
+    {
+        "Nama Bank": "Bank Riau Kepri",
+        "Kode Bank": "119",
+        "Call Center": "1500470"
+    },
+    {
+        "Nama Bank": "Bank Sahabat Sampoerna",
+        "Kode Bank": "523",
+        "Call Center": "1500035"
+    },
+    {
+        "Nama Bank": "IBK Bank Indonesia",
+        "Kode Bank": "945",
+        "Call Center": "1500978"
+    },
+    {
+        "Nama Bank": "Bank Sulselbar",
+        "Kode Bank": "126",
+        "Call Center": "1500855"
+    },
+    {
+        "Nama Bank": "Bank Sumselbabel",
+        "Kode Bank": "120",
+        "Call Center": "1500711"
+    },
+    {
+        "Nama Bank": "Bank Victoria",
+        "Kode Bank": "566",
+        "Call Center": "1500977"
+    },
+    {
+        "Nama Bank": "Bank Victoria Syariah",
+        "Kode Bank": "405",
+        "Call Center": "0215600467"
+    },
+    {
+        "Nama Bank": "Bank Woori Saudara (BWS)",
+        "Kode Bank": "212",
+        "Call Center": "1500012"
+    },
+    {
+        "Nama Bank": "Standard Chartered Bank",
+        "Kode Bank": "050",
+        "Call Center": "02157999988"
+    },
+    {
+        "Nama Bank": "BPR Prima Master Bank",
+        "Kode Bank": "520",
+        "Call Center": "0313531253"
+    },
+    {
+        "Nama Bank": "Mitsubishi UFJ Financial Group (MUFG)",
+        "Kode Bank": "042",
+        "Call Center": "0218975148"
+    }
+]
