@@ -32,3 +32,6 @@ fetch('path/to/your/bank-data.json')
 ```
 
 Feel free to customize any sections to better fit your project's needs!
+
+## Credit
+- MauCariApa.com
