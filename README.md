@@ -18,9 +18,9 @@ The database consists of a JSON array, where each entry contains the following f
 
 ```json
 {
-    "Name": "Bank BRI (Bank Rakyat Indonesia)",
-    "Bank Code": "002",
-    "Call Center": "1500017"
+    "name": "Bank BRI (Bank Rakyat Indonesia)",
+    "code": "002",
+    "call": "1500017"
 }
 ```
 ```js
