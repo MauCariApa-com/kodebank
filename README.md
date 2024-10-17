@@ -10,9 +10,9 @@ The bank information database is designed to provide easy access to important de
 
 The database consists of a JSON array, where each entry contains the following fields:
 
-- **Name**: The name of the bank.
-- **Bank Code**: The unique code assigned to the bank.
-- **Call Center**: The customer service contact number.
+- **name**: The name of the bank.
+- **code**: The unique code assigned to the bank.
+- **call**: The customer service contact number.
 
 ### Example Entry
 
