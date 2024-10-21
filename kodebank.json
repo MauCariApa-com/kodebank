@@ -6,6 +6,11 @@
     },
     {
         "name": "Bank Saqu (eks Bank Jasa Jakarta)",
+        "code": "564",
+        "call": "14024"
+    },
+    {
+        "name": "Bank Mandiri Taspen",
         "code": "484",
         "call": "1500388"
     },
