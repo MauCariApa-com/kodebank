@@ -5,9 +5,34 @@
         "call": "1500017"
     },
     {
-        "name": "Bank Saqu (eks Bank Jasa Jakarta)",
+        "name": "Bank Saqu (Eks Bank Jasa Jakarta)",
         "code": "484",
         "call": "1500388"
+    },
+    {
+        "name": "Bank Woori Saudara",
+        "code": "212",
+        "call": "1500012"
+    },
+    {
+        "name": "Krom Bank (Eks Bank Bisnis)",
+        "code": "459",
+        "call": "02150996920 "
+    },
+    {
+        "name": "Bank BNP Paribas Indonesia",
+        "code": "057",
+        "call": "+622150814789"
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Bank, Ltd.",
+        "code": "057",
+        "call": "+62215200057"
+    },
+    {
+        "name": "Icici Bank",
+        "code": "057",
+        "call": "+62212303867"
     },
     {
         "name": "Bank Mandiri Taspen",
