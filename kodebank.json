@@ -132,17 +132,17 @@
     {
         "name": "Bank Kalbar",
         "code": "123",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank Kaltimtara",
         "code": "124",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank Maluku Malut",
         "code": "131",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank Maspion",
@@ -182,22 +182,22 @@
     {
         "name": "Bank SulutGo (Sulawesi Utara dan Gorontalo)",
         "code": "127",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank Papua",
         "code": "132",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank Kalteng",
         "code": "125",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank Lippo",
         "code": "026",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Citibank",
@@ -217,12 +217,12 @@
     {
         "name": "Indosat Dompetku",
         "code": "789",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Telkomsel Tcash/LinkAja",
         "code": "911",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank Panin",
@@ -302,12 +302,12 @@
     {
         "name": "Bank Aceh Syariah",
         "code": "116",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank NTB Syariah",
         "code": "128",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank DKI Jakarta",
@@ -427,7 +427,7 @@
     {
         "name": "Bank Ekspor Indonesia",
         "code": "003",
-        "call": "–"
+        "call": "-"
     },
     {
         "name": "Bank Arta Niaga Kencana",
